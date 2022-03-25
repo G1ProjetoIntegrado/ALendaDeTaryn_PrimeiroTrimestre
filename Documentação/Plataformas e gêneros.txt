@@ -1,0 +1,7 @@
+Plataformas e gêneros do jogo do Grupo 1
+Interface: PC
+Imersão: Não-imersivo
+Controle: Teclado e mouse
+Jogadores: Sozinho
+Gênero: Beat'em up
+Preferências Apostólicas Universais: Acompanhar os jovens na criação de um futuro promissor.
