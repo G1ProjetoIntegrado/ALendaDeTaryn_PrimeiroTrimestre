@@ -1,4 +1,4 @@
-# Olimpo
+# A Lenda de Taryn
 Jogo para o projeto integrado na escola técnica de eletrônica ETEFMC.
 
 Integrantes:
