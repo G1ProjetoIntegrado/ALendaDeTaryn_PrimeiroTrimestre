@@ -10,7 +10,7 @@ Integrantes:
 
 ## História 
 
-Olimpo será um jogo do gênero Beat' em up, o enredo do aborda os caminhos de Taryn, uma heroína olimpiana, que passa por diversos empecilhos, lutando contra os tiranos do mundo mitológico que intercedem sua prole pelos extremos conflitos de sua linhagem. Olimpo será um jogo do gênero Beat' em up
+A Lenda De Taryn será um jogo do gênero Beat' em up, o enredo do aborda os caminhos de Taryn, uma heroína olimpiana, que passa por diversos empecilhos, lutando contra os tiranos do mundo mitológico que intercedem sua prole pelos extremos conflitos de sua linhagem. Olimpo será um jogo do gênero Beat' em up
 
 
 ![abcd](https://user-images.githubusercontent.com/98633309/159924739-c9715778-70af-4d3d-a557-ddb624d91aed.gif)
