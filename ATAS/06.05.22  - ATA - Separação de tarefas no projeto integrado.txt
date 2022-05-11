@@ -1,0 +1,13 @@
+06/05/2022 - ATA da separação de tarefas
+Como o inicio do projeto integrado, dia 14/05/2022, decidimos que iríamos separar as tarefas, para que ficasse mais organizado e todos trabalhasse iguais.
+
+Narrativas Gamificadas: Documento de 10 páginas.
+● Divisão: Todos juntos para decidirmos o rumo da história.
+
+Computação Gráfica: Teaser e Slides.
+● Divisão:
+⚬ Ana Lívia: Slide.
+⚬ João Gabriel da Mata: Cenário.
+⚬ Matheus Henrique: História.
+⚬ Nydia Jodar: Personagens.
+⚬ Sabrina Gabriele: Edição.
