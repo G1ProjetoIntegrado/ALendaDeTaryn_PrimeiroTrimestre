@@ -4,10 +4,18 @@ Como o inicio do projeto integrado, dia 14/05/2022, decidimos que iríamos separ
 Narrativas Gamificadas: Documento de 10 páginas.
 ● Divisão: Todos juntos para decidirmos o rumo da história.
 
-Computação Gráfica: Teaser e Slides.
+Computação Gráfica: 
 ● Divisão:
 ⚬ Ana Lívia: Slide.
 ⚬ João Gabriel da Mata: Cenário.
 ⚬ Matheus Henrique: História.
 ⚬ Nydia Jodar: Personagens.
 ⚬ Sabrina Gabriele: Edição.
+
+Desenvolvimento de sistemas: 
+● Divisão:
+⚬ João Gabriel da Mata: Código.
+
+Linguagem de programação: 
+● Divisão:
+⚬ João Gabriel da Mata: Código.
