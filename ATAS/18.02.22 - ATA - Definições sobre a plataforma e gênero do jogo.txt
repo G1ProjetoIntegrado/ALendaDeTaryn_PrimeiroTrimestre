@@ -1,0 +1,9 @@
+18/02/2022
+Nesse dia, na aula do professor João Taero, fizemos uma definição sobre como seria o nosso jogo. O resultado dessa decisão se encontra abaixo ou na pasta "Documentação" como "Plataforma e gêneros".
+
+●Interface: PC.
+●Imersão: Não-imersivo.
+●Controle: Teclado e mouse.
+●Jogadores: Sozinho.
+●Gênero: Beat'em up.
+●Preferências Apostólicas Universais: Acompanhar os jovens na criação de um futuro promissor.

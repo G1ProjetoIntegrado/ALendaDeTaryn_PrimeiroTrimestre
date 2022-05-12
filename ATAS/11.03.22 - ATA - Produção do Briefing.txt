@@ -1,0 +1,19 @@
+11/03/2022
+Nesse dia fizemos o Briefing do nosso jogo na aula do professor Jão Taero, o qual se encontra encontra abaixo ou na pasta "Documentação" como "Briefing".
+●Título: Olimpo.
+●Gênero: Beat'em up.
+●Copyright: Original.
+●Serialização: Single.
+●Jogadores: Solo.
+●Ponto de vista: Terceira pessoa.
+●Imersão: Não imerso.
+●Linearidade: Linear.
+●Plataforma: PC.
+●Classificação: Acima de 14 anos.
+●Público-alvo: Jovens de 14 a 18 anos.
+●P.A.U.: Acompanhar os jovens na criação de um futuro promissor.
+●Storyline: O enredo do jogo aborda os caminhos de Taryn, uma heroína olimpiana, que passa por diversos empecilhos, lutando contra os tiranos do mundo mitológico que intercedem sua prole pelos extremos conflitos de sua linhagem.
+●Verbos: Atacar, andar, pular e abaixar.
+●Diferenciais: Fases temáticas baseada nos Deuses.
+●Distribuição: Online.
+●Monetização: Gratuito.
