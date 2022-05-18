@@ -6,7 +6,7 @@ Jogo para o projeto integrado na escola técnica de eletrônica ETEFMC.
 Integrantes:
 - Ana Lívia Silva Paiva;
 - João Gabriel da Mata Rosa;
-- Matheus Henrique Ferreira Brás;
+- Matheus Henrique Ferreira Braz;
 - Nydia Jodar Teles dos Santos;
 - Sabrina Gabriele dos Santos.
 
